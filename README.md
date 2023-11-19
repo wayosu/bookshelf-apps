@@ -1,7 +1,7 @@
 # bookshelf-apps
 Submission Dicoding Course - Belajar Membuat Front-End Web untuk Pemula
 
-![](./screenshot-app.png)
+![App Screenshot](./screenshot-app.png)
 
 ### Features
 
